@@ -5,7 +5,6 @@ public class HomeWork5_2 {
 //	的整數亂數中取平均值並印出這10個亂數與平均值,如圖:
 	public static void main(String[] arge) {
 		randAvg();
-
 	}
 
 	public static void randAvg() {
