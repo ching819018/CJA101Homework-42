@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Homework5_1 {
 //	請設計一個方法為starSquare(int width, int height),
-//	當使用者鍵盤
+//	當使用者鍵盤::
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -12,6 +12,7 @@ public class Homework5_1 {
 		int width = sc.nextInt();
 		int height = sc.nextInt();
 		starSquare(width, height);
+		
 	}
 
 	public static void starSquare(int width, int height) {

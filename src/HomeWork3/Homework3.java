@@ -17,6 +17,7 @@ public class Homework3 {
 			L[0] = sc.nextInt();
 			L[1] = sc.nextInt();
 			L[2] = sc.nextInt();
+			
 		}
 		if (L[0] * L[1] * L[2] != 0) { // 三邊長任一邊不得為0
 			if (L[0] == L[1] && L[1] == L[2]) { // 三邊長都相等=正三角型

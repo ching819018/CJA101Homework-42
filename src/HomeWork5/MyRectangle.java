@@ -22,5 +22,6 @@ public class MyRectangle {
 
 	double getArea() {
 		return width * depth;
+		
 	}
 }

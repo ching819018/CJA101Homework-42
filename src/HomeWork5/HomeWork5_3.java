@@ -14,7 +14,6 @@ public class HomeWork5_3 {
 
 		System.out.println(ans.maxElement(intArray));
 		System.out.println(ans.maxElement(doubleArray));
-
 	}
 
 	public int maxElement(int x[][]) {
