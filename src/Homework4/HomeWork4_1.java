@@ -1,6 +1,6 @@
 package Homework4;
 
-public class Homework4_1 {
+public class HomeWork4_1 {
 	public static void main(String[] args) {
 //		有個一維陣列如下:
 //		{29, 100, 39, 41, 50, 8, 66, 77, 95, 15}

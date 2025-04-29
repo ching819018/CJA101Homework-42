@@ -1,6 +1,6 @@
 package Homework4;
 
-public class Homework4_2 {
+public class HomeWork4_2 {
 	public static void main(String[]args) {
 		
 //	• 請建立一個字串,經過程式執行後,輸入結果是反過來的

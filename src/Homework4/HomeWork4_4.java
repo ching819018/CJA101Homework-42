@@ -2,7 +2,7 @@ package Homework4;
 
 import java.util.Scanner;
 
-public class Homework4_4 {
+public class HomeWork4_4 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 //	• 阿文上班時忘了帶錢包,想要向同事借錢,和他交情比較好的同事共有 5 個,其員工編號與身上現金列

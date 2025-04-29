@@ -2,7 +2,7 @@ package Homework4;
 
 import java.util.Scanner;
 
-public class Homework4_5 {
+public class HomeWork4_5 {
 	public static void main(String[] arge) {
 		Scanner sc = new Scanner(System.in);
 //		• 請設計由鍵盤輸入三個整數,分別代表西元yyyy年,mm月,dd日,執行後會顯示是該年的第幾天
